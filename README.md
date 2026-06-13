@@ -1,1 +1,4 @@
-lab experimet 14
+lab experimet 19
+
+
+
